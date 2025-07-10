@@ -1,0 +1,52 @@
+ { "dishes" : [
+    {
+        "id":1,
+        "title": "Tasty Dish",
+        "image": "/src/assets/img/img1.jpg",
+        "price": "$10.99",
+        "rating": 5,
+        "type":"spicy"
+      },
+      {
+        "id":2,
+        "title": "Tasty Dish",
+        "image": "/src/assets/img/img2.jpg",
+        "price": "$12.99",
+        "rating": 5,
+        "type":"Tasty"
+      },
+      {
+        "id":3,
+        "title": "Tasty Dish",
+        "image": "/src/assets/img/img3.jpg",
+        "price": "$10.99",
+        "rating": 5,
+        "type":"Delicious"
+      },
+      {
+        "id":4,
+        "title": "Tasty Dish",
+        "image": "/src/assets/img/img4.jpg",
+        "price": "$11.99",
+        "rating": 5,
+        "type":"crispy"
+
+      },
+      {
+        "id":5,
+        "title": "Tasty Dish",
+        "image": "/src/assets/img/img5.jpg",
+        "price": "$10.99",
+        "rating": 5,
+        "type":"spicy"
+      },
+      {
+        "id":6,
+        "title": "Tasty Dish",
+        "image": "/src/assets/img/img6.jpg",
+        "price": "$12.99",
+        "rating": 5,
+        "type":"tasty"
+      }
+  ]
+}
